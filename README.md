@@ -1,2 +1,2 @@
-## 🖼 Dashboard Preview
-![Dashboard Screenshot](./dashboard.png)
+  ## 🖼 Dashboard Preview
+![Dashboard Screenshot](./Pictures/dashboard.png)
