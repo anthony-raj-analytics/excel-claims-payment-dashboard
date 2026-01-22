@@ -3,7 +3,7 @@
 An Excel-based dashboard to analyze healthcare claims payment trends and performance.
 
 ## Dashboard Preview
-![Excel Dashboard] (<img width="1882" height="946" alt="dashboard" src="https://github.com/user-attachments/assets/b16e88cc-856b-4b03-88ff-94e6664dd154" />)
+(<img width="1882" height="946" alt="dashboard" src="https://github.com/user-attachments/assets/b16e88cc-856b-4b03-88ff-94e6664dd154" />)
 
 ## Tools Used
 - Microsoft Excel
