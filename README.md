@@ -1,2 +1,2 @@
-# excel-claims-payment-dashboard
-Excel dashboard for healthcare claims payment analysis
+## 🖼 Dashboard Preview
+![Dashboard Screenshot](./dashboard.png)
